@@ -5,8 +5,7 @@
 
 
 
-
-
+### Quem eu sou?:pouting_man:
 ### Skills💻
 ![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logoColor=white)
 ![JAVA Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
