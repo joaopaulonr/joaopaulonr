@@ -16,7 +16,7 @@
 <img align="center" alt="jp-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="center" alt="jp-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
 <img align="center" alt="jp-postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-<img align="center" alt="jp-bash" height="30" width="40" src="https://img.icons8.com/plasticine/344/bash.png" style="max-width: 100%;"/>
+<img alt="jp-bash" src="https://camo.githubusercontent.com/a5d0e582925993a70365715ceb65b9d4e3eddaee2d5e4872658cf669b4dbf60e/68747470733a2f2f696d672e69636f6e73382e636f6d2f706c6173746963696e652f3334342f626173682e706e67" data-canonical-src="https://img.icons8.com/plasticine/344/bash.png" style="max-width: 100%;" width="40" height="40" align="middle">
 <img align="center" alt="jp-aws" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
 <img align="center" alt="jp-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 </div>
