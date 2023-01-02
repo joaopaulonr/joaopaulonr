@@ -4,6 +4,7 @@
 
 ### Quem eu sou?:pouting_man:
 
+
 <div>
 <a href="https://github.com/joaopaulonr">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaopaulonr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
