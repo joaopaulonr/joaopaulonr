@@ -11,7 +11,7 @@
 </div>
 
 
-## Aprendendo sobre: 
+## Technologies: 
 <div style="display: inline_block"><br>
 <img align="center" alt="jp-c++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
 <img align="center" alt="jp-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
