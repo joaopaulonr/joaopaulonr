@@ -7,7 +7,7 @@ class whoami
   <strong>string</strong> <i>name</i>        = "João Paulo Nobre Rodrigues";
   <strong>string</strong> <i>nationality</i> = "Brazilian";
   <strong>string</strong> <i>residence</i>   = "Quixadá, CE - BR"
-  <strong>string</strong> <i>occupation</i>  = "Undergraduate Student"; 
+  <strong>string</strong> <i>occupation</i>  = "Student in computer networks"; 
   <strong>string</strong> <i>university</i>  = "Universidade Federal do Ceará(UFC) - Campus Quixadá";
 };
 </pre>
