@@ -13,11 +13,8 @@ class whoami
 </pre>
 ## What am i learning?
 <div style="display: inline_block">
-<img align="center" alt="jp-c++" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-<img align="center" alt="jp-py" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="center" alt="jp-postgres" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+<img align="center" alt="jp-c++" height="45" width="40" src="https://isocpp.org/assets/images/cpp_logo.png"/>
 <img align="center" alt="jp-git" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
-<img align="center" alt="jp-linux" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 </div>
 <br>
 <div>
