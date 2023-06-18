@@ -4,7 +4,7 @@
 <pre>
 class whoami
 {
-  <strong>int</strong> <i>age</i> = 20;
+  <strong>int</strong> <i>age</i> = 21;
   <strong>string</strong> <i>name</i>        = "João Paulo Nobre Rodrigues";
   <strong>string</strong> <i>nationality</i> = "Brazilian";
   <strong>string</strong> <i>residence</i>   = "Quixadá, CE - BR"
