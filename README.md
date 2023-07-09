@@ -18,7 +18,7 @@ class whoami
 ## Constantly Learning 🚀
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,nodejs,git,aws,docker,prometheus,grafana,jenkins,linux,bash,vscode" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,nodejs,git,aws,docker,kubernetes,prometheus,grafana,jenkins,linux,bash,vscode" />
   </a>
 </p>
 
