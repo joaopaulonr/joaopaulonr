@@ -16,10 +16,19 @@ class whoami
 ![joaopaulonr's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joaopaulonr&layout=compact&langs_count=8&hide_border=true)
 <br />
 ## Constantly Learning 🚀
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,nodejs,git,aws,docker,kubernetes,prometheus,grafana,jenkins,linux,bash,vscode" />
-  </a>
-</p>
+<div style="display: inline-block;" align="center"><br>
+    <img height="50" width="40" hspace="7" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+    <img height="50" width="40" hspace="7" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+    <img height="50" width="40" hspace="7" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
+    <img height="50" width="40" hspace="7" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+    <img height="50" width="40" hspace="7" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+    <img height="50" width="40" hspace="7" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
+    <img height="50" width="40" hspace="7" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" />
+    <img height="50" width="40" hspace="7" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+    <img height="50" width="40" hspace="7" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+    <img height="50" width="40" hspace="7" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img height="50" width="40" hspace="7" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img height="50" width="40" hspace="7" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+</div>
 
 
